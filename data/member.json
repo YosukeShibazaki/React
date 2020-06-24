@@ -1,0 +1,16 @@
+[
+  {
+    "name" : "Tanaka Taro",
+    "sex" : "male"
+    "birth" : "1985/10/25"
+  },
+  {
+    "name" : "Suzuki Hanako",
+    "sex" : "male"
+  },
+  {
+    "name" : "Sato Jiro",
+    "sex" : "male"
+    "birth" : "1979/05/05"
+  }
+]
